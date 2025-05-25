@@ -12,7 +12,7 @@ In this algorithm we use the solution of fractional knapsack problems which base
 Instead of calculating the total value for every combination of items in Bounding, we use a bound to estimate the maximum value we can achieve with the remaining capacity. This strategy can solve the 01-knapsack problem with less running time in some cases.
 ### Introduction of the testing and visualization
 We wrote a function to generate a large number of data groups that meet the 01-knapsack problem, input these data groups into each algorithm to get the solution, and use another function to count the running time of each algorithm and draw it as a line graph like the following:
-![]("C:\Users\29418\Desktop\屏幕截图 2025-05-25 180536.png")
+![](""D:\Github\Knapsack_Algorithms_Comparison\pic.png"")
 ## File information
 You can find that we divide the Python code of each algorithm block into different files.
 knapsack_report.ipynb is a Jupyter Notebook file, it describes the whole process of implementing each algorithm and visualizing its runtime, and includes all the python code and detailed interpretation for the codes. At the same time, you can modify and run the code in this file to complete the visualization process.
