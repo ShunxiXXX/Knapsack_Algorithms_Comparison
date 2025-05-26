@@ -17,4 +17,4 @@ We wrote a function to generate a large number of data groups that meet the 01-k
 You can find that we divide the Python code of each algorithm block into different files.
 knapsack_report.ipynb is a Jupyter Notebook file, it describes the whole process of implementing each algorithm and visualizing its runtime, and includes all the python code and detailed interpretation for the codes. At the same time, you can modify and run the code in this file to complete the visualization process.
 Here is also a PDF file generated from the jupyter notebook file which can be used in study.
-This project is used for recording and self-learning,, but everyone is welcome to use it!😉
+This project is used for recording and self-learning, but everyone is welcome to use it!😉
